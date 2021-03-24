@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Caiotc/PenAndPaper#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
   }
 }
